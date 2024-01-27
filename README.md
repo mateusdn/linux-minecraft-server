@@ -1,1 +1,3 @@
-# linux-minecraft-server
+# Minecraft Server ⛏🧱🖥
+
+ Agora você montar seu próprio servidor de Minecraft sem gastar 1 centavo
