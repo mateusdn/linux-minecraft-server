@@ -1,10 +1,24 @@
 # 🧱 Minecraft Server 🗺
 
- Ta precisando de um servidor pra jogar minecraft com os rapazes?
+ <img src="a.jpg" />
+ Está precisando de um hospedar um servidor de Minecraft para jogar com os rapazes?
+
+ # Que tal criar o seu próprio Host?
+
+
+  
  
- Nesse tutorial você vai aprender a hostear o seu próprio servidor de minecraft
+
+
+
+
+
+
+
+
 
  
 <p align="center">
-     <img src="cr.png" />
+     <img src="" />
 </p>
+https://etcher.balena.io
