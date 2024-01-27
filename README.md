@@ -1,7 +1,10 @@
 # 🧱 Minecraft Server 🗺
 
- Ta precisando de um servidor pra jogar um minecraft com os rapazes?
- agora você pode transformar aquele seu computador velho em seu próprio servidor!! 
+ Ta precisando de um servidor pra jogar minecraft com os rapazes?
+ 
+ Nesse tutorial você vai aprender a hostear o seu próprio servidor de minecraft
 
- * <img src="" />
-
+ 
+<p align="center">
+     <img src="cr.png" />
+</p>
