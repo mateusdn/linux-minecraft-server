@@ -1,4 +1,7 @@
 # 🧱 Minecraft Server 🗺
 
- Agora você montar seu próprio servidor de Minecraft sem gastar 1 centavo  <img src="cr.png" /> 
+ Ta precisando de um servidor pra jogar um minecraft com os rapazes?
+ agora você pode transformar aquele seu computador velho em seu próprio servidor!! 
+
+ * <img src="" />
 
