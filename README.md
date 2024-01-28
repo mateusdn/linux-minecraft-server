@@ -125,8 +125,10 @@ Você vai precisar de acesso a internet a partir de agora.
 * Dentro do CasaOS acesse a AppStore e baixe o Craft Controller.
 
   * <img src="casa2.png" /> <img src="casa3.png" />
+  
+* Após baixar, o Crafty vai criar pra você um usuario e senha para acessa-lo (Sim, você vai ter q decorar 3 logins e senhas no processo todo.)
 
-
+  * <img src="casa4.png" />
 
 
 
