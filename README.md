@@ -66,7 +66,7 @@ Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instala
   * 24 - Aguarde o final da instalação e seleciona a opção "Reboot"
   * Não esqueça de remover seu pen drive.
 
-## Passo 3 - CasaOS
+## Passo 3 - Terminal
 
 Meus parabéns, você instalou o Debian com sucesso! Agora vamos deixar ele um pouco mais amigável.
 
@@ -104,6 +104,8 @@ Você vai precisar de acesso a internet a partir de agora.
 * Se tudo deu certo, você vai se deparar com essa tela
   * <img src="d5.png" />
   * pode ir pegar um café e esperar a instalação acabar.
+
+ ## Passo 4 - CasaOS
  
 * Ao terminar a instalação, a única coisa que você precisa se preocupar é com o IP que vai aparecer na tela:
   * <img src="d6.png" />
@@ -111,9 +113,18 @@ Você vai precisar de acesso a internet a partir de agora.
   * Esse é o endereço IP local do seu servidor (não é seu o IP, calma)
 
   * Agora você pode acessar o seu servidor pelo CasaOS através do seu browser, na sua internet local.
- 
-  * 
 
+* Digite o IP que apareceu pra você no seu browser e você vai cair nessa tela:
+  
+  * <img src="casa.png" />
+
+ * Crie uma conta e você poderá acessar o CasaOS sem problemas.
+
+  * <img src="casa1.png" />
+
+* Dentro do CasaOS acesse a AppStore e baixe o Craft Controller.
+
+  * <img src="casa2.png" /> <img src="casa3.png" />
 
 
 
