@@ -1,9 +1,9 @@
 # 🧱 Minecraft Server 🗺
 
  <img src="a.jpg" />
- Está precisando de um hospedar um servidor de Minecraft para jogar com os rapazes?
+ `Está precisando hospedar um servidor de Minecraft para jogar com os rapazes?`
 
- # Que tal criar o seu próprio Host?
+ # Que tal criar seu próprio Host?
 
 
   
