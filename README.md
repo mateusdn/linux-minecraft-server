@@ -108,9 +108,9 @@ Você vai precisar de acesso a internet a partir de agora.
 * Ao terminar a instalação, a única coisa que você precisa se preocupar é com o IP que vai aparecer na tela:
   * <img src="d6.png" />
 
-  * esse é o endereço IP local do seu servidor (não é seu o IP, calma)
+  * Esse é o endereço IP local do seu servidor (não é seu o IP, calma)
 
-  * agora você pode acessar o seu servidor pelo CasaOS através do seu browser, na sua internet local.
+  * Agora você pode acessar o seu servidor pelo CasaOS através do seu browser, na sua internet local.
  
   * 
 
