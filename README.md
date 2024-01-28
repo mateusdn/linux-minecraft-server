@@ -34,27 +34,39 @@ Você pode escolher entre instalar diretamente em um PC ou usar uma Máquina Vir
 ## Passo 2 - Instalando o Debian
 
 Quando você conseguir acesso ao sistema operacional, vai se deparar com essa tela:
+<img src="deb.png" />
 
 Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instalação mastigadinho a seguir:
 
 * Instalação do Debian
 
-  * 1 - Selecione Graphical Install
-  * 1 - Selecione o idioma
-  * 1 - Selecione a localização
-  * 1 - Selecione a configuração do teclado
-  * 1 - Escolha o seu hostname (ex: mc-server)
-  * 1 - Escolha o nome do dominio (ex: local)
-  * 1 - Tela de Senha root (pode pular essa parte apertando Enter)
-  * 1 - Escolha o nome do seu usuário (você vai precisar dele para acessar o servidor)
-  * 1 - Escolha a senha do seu usuário (use uma senha que você não vai esquecer)
-  * 1 - Escolha a região do fuso horario
-  * 1 - Escolha a opção "Guided - use entire disk"
-  * 1 - Escolha o Seu HD, SSD, etc.
-  * 1 - Selecione "All files in one partition"
-  * 1 - Selecione "Finish partitioning and write changes to disk"
-  * 1 - Selecione a opção "Sim"
-  * 
+  * 1  - Selecione Graphical Install
+  * 2  - Selecione o idioma
+  * 3  - Selecione a localização
+  * 4  - Selecione a configuração do teclado
+  * 5  - Escolha o seu hostname (ex: mc-server)
+  * 6  - Escolha o nome do dominio (ex: local)
+  * 7  - Tela de Senha root (pode pular essa parte apertando Enter)
+  * 8  - Escolha o nome do seu usuário (você vai precisar dele para acessar o servidor)
+  * 9  - Escolha a senha do seu usuário (use uma senha que você não vai esquecer)
+  * 10 - Escolha a região do fuso horario
+  * 11 - Escolha a opção "Guided - use entire disk"
+  * 12 - Escolha o Seu HD, SSD, etc.
+  * 13 - Selecione "All files in one partition"
+  * 14 - Selecione "Finish partitioning and write changes to disk"
+  * 15 - Selecione a opção "Sim"
+  * 16 - Selecione a opção "Não"
+  * 17 - Selecione a localização
+  * 18 - Selecione a primeira opção "deb.debian.org"
+  * 19 - Tela de Proxy (pode pular)
+  * 20 - Selecione a opção "Não"
+  * 21 - Desmarque as opções "Debian desktop enviroment" e "GNOME" e marque a opção "SSH Server"
+  * 22 - Selecione a opção "Sim"
+  * 23 - Selecione a opção "dev/sda"
+  * 24 - Aguarde o final da instalação e seleciona a opção "Reboot"
+  * Não esqueça de remover seu pen drive.
+
+## Passo 3 - CasaOS
 
 
 
