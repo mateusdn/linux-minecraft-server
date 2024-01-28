@@ -131,11 +131,19 @@ Você vai precisar de acesso a internet a partir de agora.
   * <img src="casa4.png" />
 
   * Você pode encontrar esse arquivo .txt dentro da pasta Files/AppData/crafty no Desktop
+  * Salve as configurações do jeito que estão e clique pra acessar o App
 
+## Passo 5 - Crafty Controller
 
+* a primeira vez que você abrir talvez você se depare com essa tela:
 
+* tela
 
+* mas não se preocupe, isso é normal, apenas clique em avançado e prosseguir.
 
+* meme
+
+  
 
 
 
