@@ -135,13 +135,12 @@ Você vai precisar de acesso a internet a partir de agora.
 
 ## Passo 5 - Crafty Controller
 
-* a primeira vez que você abrir talvez você se depare com essa tela:
+* A primeira vez que você abrir talvez você se depare com essa tela:
 
-* tela
+  * <img src="p.png" />
 
-* mas não se preocupe, isso é normal, apenas clique em avançado e prosseguir.
+* Não se preocupe, isso é normal, apenas clique em avançado e prosseguir. 😈😈
 
-* meme
 
   
 
