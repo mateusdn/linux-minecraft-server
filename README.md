@@ -86,10 +86,27 @@ Você vai precisar de acesso a internet a partir de agora.
   * Escreva a sua senha
 
 
+* Caso precise atualizar algo escreva esse comando:
+  `sudo apt upgrade -y`
+  * <img src="d2.png" />
 
 
+* Escreva esse comando:
+  `sudo apt install curl`
+  * <img src="d3.png" />
+  * escolha Y para aceitar
 
+
+* Escreva esse comando:
+  `curl -fsSL https://get.casaos.io | sudo bash`
+  * <img src="d4.png" />
+
+* Se tudo deu certo, você vai se deparar com essa tela
+  * <img src="d5.png" />
+  * pode ir pegar um café e esperar a instalação acabar.
  
+* Ao terminar a instalação, a única coisa que você precisa se preocupar é com o IP que vai aparecer na tela:
+  * d4
 <p align="center">
      <img src="" />
 </p>
