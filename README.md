@@ -44,14 +44,14 @@ Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instala
   * 2  - Selecione o idioma
   * 3  - Selecione a localização
   * 4  - Selecione a configuração do teclado
-  * 5  - Escolha o seu hostname (ex: mc-server)
-  * 6  - Escolha o nome do dominio (ex: local)
+  * 5  - Selecione o seu hostname (ex: mc-server)
+  * 6  - Selecione o nome do dominio (ex: local)
   * 7  - Tela de Senha root (pode pular essa parte apertando Enter)
-  * 8  - Escolha o nome do seu usuário (você vai precisar dele para acessar o servidor)
-  * 9  - Escolha a senha do seu usuário (use uma senha que você não vai esquecer)
-  * 10 - Escolha a região do fuso horario
-  * 11 - Escolha a opção "Guided - use entire disk"
-  * 12 - Escolha o Seu HD, SSD, etc.
+  * 8  - Selecione o nome do seu usuário (você vai precisar dele para acessar o servidor)
+  * 9  - Selecione a senha do seu usuário (use uma senha que você não vai esquecer)
+  * 10 - Selecione a região do fuso horario
+  * 11 - Selecione a opção "Guided - use entire disk"
+  * 12 - Selecione o Seu HD, SSD, etc.
   * 13 - Selecione "All files in one partition"
   * 14 - Selecione "Finish partitioning and write changes to disk"
   * 15 - Selecione a opção "Sim"
@@ -74,7 +74,16 @@ Meus parabéns, você instalou o Debian com sucesso! Agora vamos deixar ele um p
 
 Você vai precisar de acesso a internet a partir de agora.
 
+* Escreva o usuário e senha que você escolheu durante a instalação, se você esqueceu pode fechar o tutorial já
 
+  * <img src="d.png" />
+  
+  * Quando você escreve a senha ela não aparece na tela, sim isso é normal.
+ 
+* Escreva esse comando:
+  `sudo apt update`
+  * <img src="d1.png" />
+  * Escreva a sua senha
 
 
 
