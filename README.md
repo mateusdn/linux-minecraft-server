@@ -68,6 +68,12 @@ Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instala
 
 ## Passo 3 - CasaOS
 
+Meus parabéns, você instalou o Debian com sucesso! Agora vamos deixar ele um pouco mais amigável.
+
+<img src="s.png" />
+
+Você vai precisar de acesso a internet a partir de agora.
+
 
 
 
