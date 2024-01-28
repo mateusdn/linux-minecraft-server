@@ -130,6 +130,8 @@ Você vai precisar de acesso a internet a partir de agora.
 
   * <img src="casa4.png" />
 
+  * Você pode encontrar esse arquivo .txt dentro da pasta Files/AppData/crafty no Desktop
+
 
 
 
