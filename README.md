@@ -142,7 +142,7 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
 
 ## 5 - Crafty Controller
 
-* A primeira vez que você abrir talvez você veja essa tela:
+* A primeira vez que você abrir, talvez você veja essa tela:
 
   * <img src="p.png" />
 
