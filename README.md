@@ -6,7 +6,7 @@
 
  # Que tal criar seu próprio Host?
 
-Requisitos mínimos:
+`requisitos mínimos:`
   * Cabo Ethernet / Roteador.
   * 1 Pen drive
   * 1 Computador velho (monitor, teclado, etc.)
@@ -14,31 +14,33 @@ Requisitos mínimos:
     * min 4 GB de RAM
     * 10 GB de espaço disponivel
 
-## Passo 1 - Debian
+## 1 - Debian
 
-Vamos precisar de um sistema operacional com acesso a internet para rodar o servidor, nesse caso usaremos o Debian.
+Um sistema operacional com acesso a internet vai ser necessário para rodar o servidor, nesse caso usaremos o Debian.
 Você pode escolher entre instalar diretamente em um PC ou usar uma Máquina Virtual.
 
-* Servidor no Pc
-  * Você vai precisar de um pen drive pra fazer a instalação do debian diretamente na máquina e configurar a BIOS para acessar o pen drive na ordem de BOOT.
+* SERVIDOR NO PC
+  * Você vai usar o etcher pra fazer a instalação do debian através de um pen drive diretamente na máquina. Não esqueça de configurar a BIOS para acessar o pen drive pelo BOOT.
  
-  * https://etcher.balena.io
-  * https://www.debian.org/download
+  * [Etcher.Balena](https://etcher.balena.io)
+  * [Debian](https://www.debian.org/download)
 
-* Servidor na VM
-  * Caso você prefira usar uma maquina virtual, você terá que configura-la manualmente a quantidade de Mem. RAM e processamento.
+* SERVIDOR NA VM
+  * Caso use uma maquina virtual, você terá que configura-la manualmente a quantidade de RAM e processamento. Depois é só usar o ISO do debian.
     
-  * https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html
-  * https://www.debian.org/download
+  * [VMware](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html)
+  * [Debian](https://www.debian.org/download)
  
-## Passo 2 - Instalando o Debian
+## 2 - Instalando o Debian
 
-Quando você conseguir acesso ao sistema operacional, vai se deparar com essa tela:
+Ao acessar o sistema operacional, você vai ver essa tela:
+
+
 <img src="deb.png" />
 
-Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instalação mastigadinho a seguir:
+Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instalação mastigadinho ai:
 
-* Instalação do Debian
+* Instalação:
 
   * 1  - Selecione Graphical Install
   * 2  - Selecione o idioma
@@ -50,62 +52,62 @@ Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instala
   * 8  - Selecione o nome do seu usuário (você vai precisar dele para acessar o servidor)
   * 9  - Selecione a senha do seu usuário (use uma senha que você não vai esquecer)
   * 10 - Selecione a região do fuso horario
-  * 11 - Selecione a opção "Guided - use entire disk"
+  * 11 - Selecione "Guided - use entire disk"
   * 12 - Selecione o Seu HD, SSD, etc.
   * 13 - Selecione "All files in one partition"
   * 14 - Selecione "Finish partitioning and write changes to disk"
-  * 15 - Selecione a opção "Sim"
-  * 16 - Selecione a opção "Não"
+  * 15 - Selecione "Sim"
+  * 16 - Selecione "Não"
   * 17 - Selecione a localização
-  * 18 - Selecione a primeira opção "deb.debian.org"
+  * 18 - Selecione "deb.debian.org"
   * 19 - Tela de Proxy (pode pular)
-  * 20 - Selecione a opção "Não"
-  * 21 - Desmarque as opções "Debian desktop enviroment" e "GNOME" e marque a opção "SSH Server"
-  * 22 - Selecione a opção "Sim"
-  * 23 - Selecione a opção "dev/sda"
+  * 20 - Selecione "Não"
+  * 21 - DESMARQUE as opções "Debian desktop enviroment" e "GNOME" e MARQUE a opção "SSH Server"
+  * 22 - Selecione "Sim"
+  * 23 - Selecione "dev/sda"
   * 24 - Aguarde o final da instalação e seleciona a opção "Reboot"
   * Não esqueça de remover seu pen drive.
 
-## Passo 3 - Terminal
+## 3 - Terminal
 
-Meus parabéns, você instalou o Debian com sucesso! Agora vamos deixar ele um pouco mais amigável.
+Meus parabéns! você instalou o Debian com sucesso! Agora vamos deixar ele um pouco mais amigável.
 
 <img src="s.png" />
 
-Você vai precisar de acesso a internet a partir de agora.
+Você vai precisar de acesso a internet para continuar a partir de agora.
 
-* Escreva o usuário e senha que você escolheu durante a instalação, se você esqueceu pode fechar o tutorial já
+* Escreva o usuário e senha que você escolheu durante a instalação, se você esqueceu pode fechar o tutorial já.
 
   * <img src="d.png" />
   
-  * Quando você escreve a senha ela não aparece na tela, sim isso é normal.
+  * ( Quando você escreve a senha ela não aparece na tela. Sim, isso é normal. )
  
-* Escreva esse comando:
+* Escreva:
   `sudo apt update`
   * <img src="d1.png" />
   * Escreva a sua senha
 
 
-* Caso precise atualizar algo escreva esse comando:
+* Caso precise atualizar o debian, escreva:
   `sudo apt upgrade -y`
   * <img src="d2.png" />
 
 
-* Escreva esse comando:
+* Escreva:
   `sudo apt install curl`
   * <img src="d3.png" />
   * escolha Y para aceitar
 
 
-* Escreva esse comando:
+* Escreva:
   `curl -fsSL https://get.casaos.io | sudo bash`
   * <img src="d4.png" />
 
-* Se tudo deu certo, você vai se deparar com essa tela
+* Se tudo deu certo, você vai ver essa tela
   * <img src="d5.png" />
-  * pode ir pegar um café e esperar a instalação acabar.
+  * Agora é esperar a instalação acabar, vai pegar um ☕.
 
- ## Passo 4 - CasaOS
+ ## 4 - CasaOS
  
 * Ao terminar a instalação, a única coisa que você precisa se preocupar é com o IP que vai aparecer na tela:
   * <img src="d6.png" />
@@ -114,7 +116,7 @@ Você vai precisar de acesso a internet a partir de agora.
 
   * Agora você pode acessar o seu servidor pelo CasaOS através do seu browser, na sua internet local.
 
-* Digite o IP que apareceu pra você no seu browser e você vai cair nessa tela:
+* Digite o IP que apareceu pra você na busca do seu browser e você vai ver essa tela:
   
   * <img src="casa.png" />
 
@@ -126,20 +128,21 @@ Você vai precisar de acesso a internet a partir de agora.
 
   * <img src="casa2.png" /> <img src="casa3.png" />
   
-* Após baixar, o Crafty vai criar pra você um usuario e senha para acessa-lo (Sim, você vai ter q decorar 3 logins e senhas no processo todo.)
+* Após baixar, o Crafty vai criar pra você um usuário e senha para acessa-lo ( Sim, você vai ter q decorar uns 4 logins e senhas no processo completo. )
 
   * <img src="casa4.png" />
 
-  * Você pode encontrar esse arquivo .txt dentro da pasta Files/AppData/crafty no Desktop
-  * Salve as configurações do jeito que estão e clique pra acessar o App
+  * Você pode encontrar esse arquivo .txt dentro da pasta Files/AppData/crafty no Desktop, nele contem o seu login e senha do Crafty.
+ 
+  * Salve as configurações do jeito que estão e clique pra acessar o App.
 
-## Passo 5 - Crafty Controller
+## 5 - Crafty Controller
 
-* A primeira vez que você abrir talvez você se depare com essa tela:
+* A primeira vez que você abrir talvez você veja essa tela:
 
   * <img src="p.png" />
 
-* Não se preocupe, isso é normal, apenas clique em avançado e prosseguir. 😈😈
+* Não se preocupe, isso é normal, apenas clique em avançado e prosseguir. ( 😈 ) 
 
 
   
