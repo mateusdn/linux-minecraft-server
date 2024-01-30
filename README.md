@@ -11,12 +11,12 @@
   * 1 Pen drive
   * 1 Computador velho (monitor, teclado, etc.)
     * Intel® Core™ i3 ou i5 / AMD Ryzen
-    * min 4 GB de RAM
+    * 4 GB de RAM min.
     * 10 GB de espaço disponivel
 
 ## 1 - Debian
 
-Um sistema operacional com acesso a internet vai ser necessário para rodar o servidor, nesse caso usaremos o Debian.
+Um sistema operacional com acesso à internet vai ser necessário para rodar o servidor, nesse caso será usado o Debian.
 Você pode escolher entre instalar diretamente em um PC ou usar uma Máquina Virtual.
 
 * SERVIDOR NO PC
