@@ -36,45 +36,45 @@ Você pode escolher entre instalar diretamente em um PC ou usar uma Máquina Vir
 Ao acessar o sistema operacional, você vai ver essa tela:
 
 
-<img src="deb.png" />
+<img src="deb.png" /> 
 
-Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instalação mastigadinho ai:
+Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instalação mastigadinho, só clicar aí:
 
 <details>
-<summary><b>Instalação: </b></summary>
+<summary><b>😎 Instalação: </b></summary>
 
 
-    * 1  - Selecione Graphical Install
-    * 2  - Selecione o idioma
-    * 3  - Selecione a localização
-    * 4  - Selecione a configuração do teclado
-    * 5  - Selecione o seu hostname (ex: mc-server)
-    * 6  - Selecione o nome do dominio (ex: local)
-    * 7  - Tela de Senha root (pode pular essa parte apertando Enter)
-    * 8  - Selecione o nome do seu usuário (você vai precisar dele para acessar o servidor)
-    * 9  - Selecione a senha do seu usuário (use uma senha que você não vai esquecer)
-    * 10 - Selecione a região do fuso horario
-    * 11 - Selecione "Guided - use entire disk"
-    * 12 - Selecione o Seu HD, SSD, etc.
-    * 13 - Selecione "All files in one partition"
-    * 14 - Selecione "Finish partitioning and write changes to disk"
-    * 15 - Selecione "Sim"
-    * 16 - Selecione "Não"
-    * 17 - Selecione a localização
-    * 18 - Selecione "deb.debian.org"
-    * 19 - Tela de Proxy (pode pular)
-    * 20 - Selecione "Não"
-    * 21 - DESMARQUE as opções "Debian desktop enviroment" e "GNOME" e MARQUE a opção "SSH Server"
-    * 22 - Selecione "Sim"
-    * 23 - Selecione "dev/sda"
-    * 24 - Aguarde o final da instalação e seleciona a opção "Reboot"
-    * 25 - Não esqueça de remover seu pen drive.
+    1  - Selecione Graphical Install
+    2  - Selecione o idioma
+    3  - Selecione a localização
+    4  - Selecione a configuração do teclado
+    5  - Selecione o seu hostname (ex: mc-server)
+    6  - Selecione o nome do dominio (ex: local)
+    7  - Tela de Senha root (pode pular essa parte apertando Enter)
+    8  - Selecione o nome do seu usuário (você vai precisar dele para acessar o servidor)
+    9  - Selecione a senha do seu usuário (use uma senha que você não vai esquecer)
+    10 - Selecione a região do fuso horario
+    11 - Selecione "Guided - use entire disk"
+    12 - Selecione o Seu HD, SSD, etc.
+    13 - Selecione "All files in one partition"
+    14 - Selecione "Finish partitioning and write changes to disk"
+    15 - Selecione "Sim"
+    16 - Selecione "Não"
+    17 - Selecione a localização
+    18 - Selecione "deb.debian.org"
+    19 - Tela de Proxy (pode pular)
+    20 - Selecione "Não"
+    21 - DESMARQUE as opções "Debian desktop enviroment" e "GNOME" e MARQUE a opção "SSH Server"
+    22 - Selecione "Sim"
+    23 - Selecione "dev/sda"
+    24 - Aguarde o final da instalação e seleciona a opção "Reboot"
+    25 - Não esqueça de remover seu pen drive.
 
 </details>
 
 ## 3 - Terminal
 
-Meus parabéns! você instalou o Debian com sucesso! Agora vamos deixar ele um pouco mais amigável.
+Meus parabéns! Você instalou o Debian com sucesso! Agora vamos deixar ele um pouco mais amigável.
 
 <img src="s.png" />
 
