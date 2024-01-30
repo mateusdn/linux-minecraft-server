@@ -66,7 +66,7 @@ Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instala
   * 22 - Selecione "Sim"
   * 23 - Selecione "dev/sda"
   * 24 - Aguarde o final da instalação e seleciona a opção "Reboot"
-  * Não esqueça de remover seu pen drive.
+  * 25 - Não esqueça de remover seu pen drive.
 
 ## 3 - Terminal
 
