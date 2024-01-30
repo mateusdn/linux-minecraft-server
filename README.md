@@ -38,7 +38,7 @@ Ao acessar o sistema operacional, você vai ver essa tela:
 
 <img src="deb.png" /> 
 
-Mas não se preocupe! Você que é um lerdão vai ter o passo a passo da instalação mastigadinho, só clicar aí:
+Mas não se preocupe! Você que é um lerdão, vai ter o passo a passo da instalação mastigadinho, só clicar aí:
 
 <details>
 <summary><b>😎 Instalação: </b></summary>
