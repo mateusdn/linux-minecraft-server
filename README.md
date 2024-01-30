@@ -8,11 +8,11 @@
 
 `requisitos mínimos:`
   * Cabo Ethernet / Roteador.
-  * 1 Pen drive
+  * 1 Pen drive.
   * 1 Computador velho (monitor, teclado, etc.)
-    * Intel® Core™ i3 ou i5 / AMD Ryzen
+    * Intel® Core™ i3 ou i5 / AMD Ryzen.
     * 4 GB de RAM min.
-    * 10 GB de espaço disponivel
+    * 10 GB de espaço disponível.
 
 ## 1 - Debian
 
