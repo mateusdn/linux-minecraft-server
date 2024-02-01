@@ -148,10 +148,9 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
 
 * Não se preocupe, isso é normal, apenas clique em avançado e prosseguir. ( 😈 ) 
 
+* teste
 
-  
-
-
+  * <img src="c1.png" />
 
 
 
