@@ -205,6 +205,8 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
 
 * Esse sim é o seu IP público, não o compartilhe com ninguém, apenas o link criado pelo Playit.gg
 
+  * <img src="prints-ms/asd.png" /> 
+
 * Meus Parabéns! Seu servidor está online!
   
 <p align="center">
