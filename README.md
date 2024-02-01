@@ -148,9 +148,43 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
 
 * Não se preocupe, isso é normal, apenas clique em avançado e prosseguir. ( 😈 ) 
 
-* teste
+* Quando ver essa tela, faça login com o usuário Admin + a senha que ele criou para você.
 
-  * <img src="c1.png" />
+  * <img src="cr1.png" />
+
+* Após fazer login, você vai ver o Dashboard do Crafty Controller.
+
+* Para criar um servidor, clique em Servers -> Create new Server.
+
+   * <img src="cr2.png" />
+
+* Escolha o nome, tipo de e versão disponível para seu servidor.
+   
+   * <img src="cr3.png" />
+
+* Escolha a quantidade de RAM que você achar necessário, não esqueça de escolher de acordo com a quantidade disponível no seu PC/VM.
+
+  * <img src="cr4.png" />
+
+* Agora é só clicar em "Build Server".
+
+* Depois do seu servidor ser criado e configurado, você vai ter acesso a diversos tipos de ferramentas dentro do Crafty
+
+  * <img src="cr5.png" />
+
+* A partir desse momento, seu servidor já está online na sua internet local, agora vamos ver como jogar com seus amigos online.
+
+## 6 - Playit.gg
+
+ * <img src="cr6.png" />
+ * Acesse o site: [playit.gg](https://playit.gg)
+
+* Crie uma conta e Baixe o Programa ou o Plugin
+  * <img src="cr7.png" />
+
+
+
+
 
 
 
