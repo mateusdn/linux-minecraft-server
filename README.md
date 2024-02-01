@@ -1,6 +1,6 @@
 # 🧱 Minecraft Server 🗺
 
- <img src="a.jpg" />
+ <img src="prints-ms/a.jpg" />
  
  `Está precisando hospedar um servidor de Minecraft para jogar com os rapazes?`
 
@@ -36,7 +36,7 @@ Você pode escolher entre instalar diretamente em um PC ou usar uma Máquina Vir
 Ao acessar o sistema operacional, você vai ver essa tela:
 
 
-<img src="deb.png" /> 
+<img src="prints-ms/deb.png" /> 
 
 Mas não se preocupe! Você que é um lerdão, vai ter o passo a passo da instalação mastigadinho, só clicar aí:
 
@@ -76,45 +76,45 @@ Mas não se preocupe! Você que é um lerdão, vai ter o passo a passo da instal
 
 Meus parabéns! Você instalou o Debian com sucesso! Agora vamos deixar ele um pouco mais amigável.
 
-<img src="s.png" />
+<img src="prints-ms/s.png" />
 
 Você vai precisar de acesso a internet para continuar a partir de agora.
 
 * Escreva o usuário e senha que você escolheu durante a instalação, se você esqueceu pode fechar o tutorial já.
 
-  * <img src="d.png" />
+  * <img src="prints-ms/d.png" />
   
   * ( Quando você escreve a senha ela não aparece na tela. Sim, isso é normal. )
  
 * Escreva:
   `sudo apt update`
-  * <img src="d1.png" />
+  * <img src="prints-ms/d1.png" />
   * Escreva a sua senha
 
 
 * Caso precise atualizar o debian, escreva:
   `sudo apt upgrade -y`
-  * <img src="d2.png" />
+  * <img src="prints-ms/d2.png" />
 
 
 * Escreva:
   `sudo apt install curl`
-  * <img src="d3.png" />
+  * <img src="prints-ms/d3.png" />
   * escolha Y para aceitar
 
 
 * Escreva:
   `curl -fsSL https://get.casaos.io | sudo bash`
-  * <img src="d4.png" />
+  * <img src="prints-ms/d4.png" />
 
 * Se tudo deu certo, você vai ver essa tela
-  * <img src="d5.png" />
+  * <img src="prints-ms/d5.png" />
   * Agora é esperar a instalação acabar, vai pegar um ☕.
 
  ## 4 - CasaOS
  
 * Ao terminar a instalação, a única coisa que você precisa se preocupar é com o IP que vai aparecer na tela:
-  * <img src="d6.png" />
+  * <img src="prints-ms/d6.png" />
 
   * Esse é o endereço IP local do seu servidor (não é seu o IP, calma)
 
@@ -122,19 +122,19 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
 
 * Digite o IP que apareceu pra você na busca do seu browser e você vai ver essa tela:
   
-  * <img src="casa.png" />
+  * <img src="prints-ms/casa.png" />
 
  * Crie uma conta e você poderá acessar o CasaOS sem problemas.
 
-  * <img src="casa1.png" />
+  * <img src="prints-ms/casa1.png" />
 
 * Dentro do CasaOS acesse a AppStore e baixe o Craft Controller.
 
-  * <img src="casa2.png" /> <img src="casa3.png" />
+  * <img src="prints-ms/casa2.png" /> <img src="prints-ms/casa3.png" />
   
 * Após baixar, o Crafty vai criar pra você um usuário e senha para acessa-lo ( Sim, você vai ter q decorar uns 4 logins e senhas no processo completo. )
 
-  * <img src="casa4.png" />
+  * <img src="prints-ms/casa4.png" />
 
   * Você pode encontrar esse arquivo .txt dentro da pasta Files/AppData/crafty no Desktop, nele contem o seu login e senha do Crafty.
  
@@ -144,43 +144,43 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
 
 * A primeira vez que você abrir, talvez você veja essa tela:
 
-  * <img src="p.png" />
+  * <img src="prints-ms/p.png" />
 
 * Não se preocupe, isso é normal, apenas clique em avançado e prosseguir. ( 😈 ) 
 
 * Quando ver essa tela, faça login com o usuário Admin + a senha que ele criou para você.
 
-  * <img src="cr1.png" />
+  * <img src="prints-ms/cr1.png" />
 
 * Após fazer login, você vai ver o Dashboard do Crafty Controller.
 
 * Para criar um servidor, clique em Servers -> Create new Server.
 
-   * <img src="cr2.png" />
+   * <img src="prints-ms/cr2.png" />
 
 * Escolha o nome, tipo de e versão disponível para seu servidor.
    
-   * <img src="cr3.png" />
+   * <img src="prints-ms/cr3.png" />
 
 * Escolha a quantidade de RAM que você achar necessário, não esqueça de escolher de acordo com a quantidade disponível no seu PC/VM.
 
-  * <img src="cr4.png" />
+  * <img src="prints-ms/cr4.png" />
 
 * Agora é só clicar em "Build Server".
 
 * Depois do seu servidor ser criado e configurado, você vai ter acesso a diversos tipos de ferramentas dentro do Crafty
 
-  * <img src="cr5.png" />
+  * <img src="prints-ms/cr5.png" />
 
 * A partir desse momento, seu servidor já está online na sua internet local, agora vamos ver como jogar com seus amigos online.
 
 ## 6 - Playit.gg
 
- * <img src="cr6.png" />
+ * <img src="prints-ms/cr6.png" />
  * Acesse o site: [playit.gg](https://playit.gg)
 
 * Crie uma conta e Baixe o Programa ou o Plugin
-  * <img src="cr7.png" />
+  * <img src="prints-ms/cr7.png" />
 
 * Crie uma conta e Baixe o Programa ou o Plugin.
 * Para adicionar através do Plugin, acesse a aba "Files" dentro do Crafty.
@@ -188,25 +188,25 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
 
 * Após a instalação, Reinicie o Servidor, dentro do log vai começar a aparecer um link para o playit.gg
 
-  * <img src="cr8.png" />
+  * <img src="prints-ms/cr8.png" />
 
 * Copie e cole esse link no browser.
 * Após ver essa tela, apenas espere o Carregamento
   
-  * <img src="cr9.png" />
+  * <img src="prints-ms/cr9.png" />
   
 * No passo 5, você verá o IP para compartilhar com os seus amigos e jogar junto com eles.
 
-  * <img src="rapazes.png" />
+  * <img src="prints-ms/rapazes.png" />
 
 * Se você clicar em "View Tunnel" terá acesso a essa tela:
   
-  * <img src="cr10.png" />
+  * <img src="prints-ms/cr10.png" />
 
 * Esse sim é o seu IP público, não o compartilhe com ninguém, apenas o link criado pelo Playit.gg
 
 * Meus Parabéns! Seu servidor está online!
   
 <p align="center">
-     <img src="cr.png" />
+     <img src="prints-ms/cr.png" />
 </p>
