@@ -195,7 +195,7 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
   
   * <img src="cr9.png" />
   
-* No passo 5, você verá o IP para compartilhar com os seus amigos e jogar junto.
+* No passo 5, você verá o IP para compartilhar com os seus amigos e jogar junto com eles.
 
   * <img src="rapazes.png" />
 
@@ -205,18 +205,8 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
 
 * Esse sim é o seu IP público, não o compartilhe com ninguém, apenas o link criado pelo Playit.gg
 
-
-
-
-
-
-
-
-
-
-
-
+* Meus Parabéns! Seu servidor está online!
   
 <p align="center">
-     <img src="" />
+     <img src="cr.png" />
 </p>
