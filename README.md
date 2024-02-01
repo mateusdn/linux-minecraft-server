@@ -191,9 +191,19 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
   * <img src="cr8.png" />
 
 * Copie e cole esse link no browser.
+* Após ver essa tela, apenas espere o Carregamento
+  
+  * <img src="cr9.png" />
+  
+* No passo 5, você verá o IP para compartilhar com os seus amigos e jogar junto.
 
+  * <img src="rapazes.png" />
 
+* Se você clicar em "View Tunnel" terá acesso a essa tela:
+  
+  * <img src="cr10.png" />
 
+* Esse sim é o seu IP público, não o compartilhe com ninguém, apenas o link criado pelo Playit.gg
 
 
 
