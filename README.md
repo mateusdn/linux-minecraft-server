@@ -182,7 +182,15 @@ Você vai precisar de acesso a internet para continuar a partir de agora.
 * Crie uma conta e Baixe o Programa ou o Plugin
   * <img src="cr7.png" />
 
+* Crie uma conta e Baixe o Programa ou o Plugin.
+* Para adicionar através do Plugin, acesse a aba "Files" dentro do Crafty.
+* Clique com o botão direito na pasta plugins, upload, e escolha o arquivo.
 
+* Após a instalação, Reinicie o Servidor, dentro do log vai começar a aparecer um link para o playit.gg
+
+  * <img src="cr8.png" />
+
+* Copie e cole esse link no browser.
 
 
 
